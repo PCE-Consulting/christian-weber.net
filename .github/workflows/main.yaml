@@ -72,10 +72,10 @@ jobs:
         with:
           server: ${{ vars.ftp_server }}
           username: ${{ vars.ftp_username }}
-          ssh_private_key: ${{ secrets.ftp_password }}
+          # ssh_private_key: ${{ secrets.ftp_password }}
           # or if you only use a password
           # sftp_only: true
-          # password: ${{ secrets.ftp_password }}
+          password: ${{ secrets.ftp_password }}
           port: ${{ vars.ftp_port }}
           remote_path: '/home/www/christian-weber.net/' # This will depend on your server
           local_path: './public/*' # This is the path where the artifact is located
