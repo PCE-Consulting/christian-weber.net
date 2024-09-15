@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Desc Text."
+description: "Beschreibung"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -32,5 +32,5 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-# Test
-Hier steht ein bisschen Beispieltext.
+# Überschrift
+Hier geht es los

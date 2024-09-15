@@ -112,22 +112,18 @@ menu:
       name: posts
       url: /posts/
       weight: 10
-    - identifier: pages
-      name: pages
-      url: /pages/
-      weight: 20
     - identifier: categories
       name: categories
       url: /categories/
-      weight: 30
+      weight: 20
     - identifier: tags
       name: tags
       url: /tags/
-      weight: 40
+      weight: 30
     - identifier: example
       name: example.org
       url: https://example.org
-      weight: 50
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

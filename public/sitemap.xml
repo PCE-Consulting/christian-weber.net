@@ -19,7 +19,9 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/test/</loc>
+    <loc>http://localhost:1313/pages/legal/datenschutz/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/legal/impressum/</loc>
   </url><url>
     <loc>http://localhost:1313/pages/</loc>
   </url>

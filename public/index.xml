@@ -16,11 +16,31 @@
       <description>Ein Beispieltext</description>
     </item>
     <item>
-      <title>Eine Testseite</title>
-      <link>http://localhost:1313/pages/test/</link>
+      <title>Datenschutzerklärung</title>
+      <link>http://localhost:1313/pages/legal/datenschutz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pages/test/</guid>
-      <description>Desc Text.</description>
+      <guid>http://localhost:1313/pages/legal/datenschutz/</guid>
+      <description>1. Datenschutz auf einen Blick Allgemeine Hinweise Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.
+Datenerfassung auf dieser Website Wer ist verantwortlich für die Datenerfassung auf dieser Website? Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber.</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/pages/legal/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/legal/impressum/</guid>
+      <description>PCE Consulting
+Christian Weber
+Am Aschener Bach 16
+49201 Dissen aTW
+Kontakt Fax: 0 59 73 / 82 77 095
+E-Mail: kontakt@christian-weber.net
+Postadresse PCE Consulting
+Postfach 1153
+49197 Dissen
+Redaktionell verantwortlich Christian Weber
+Am Aschener Bach 16
+49201 Dissen
+Verarbeitung von Adressen Alle die auf dieser Webseite angegebenen Kontaktinformationen von Personen, inklusive etwaiger Fotos dienen ausdrücklich nur zu Informationszwecken bzw. zur Kontaktaufnahme. Sie dürfen insbesondere nicht für die Zusendung von Werbung, Spam und Ähnliches genutzt werden.</description>
     </item>
   </channel>
 </rss>
