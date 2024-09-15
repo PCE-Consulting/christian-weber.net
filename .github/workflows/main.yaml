@@ -74,7 +74,7 @@ jobs:
           username: ${{ vars.ftp_username }}
           # ssh_private_key: ${{ secrets.ftp_password }}
           # or if you only use a password
-          # sftp_only: true
+          sftp_only: false
           password: ${{ secrets.ftp_password }}
           port: ${{ vars.ftp_port }}
           remote_path: '/home/www/christian-weber.net/' # This will depend on your server
