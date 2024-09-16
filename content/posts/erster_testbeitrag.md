@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: true
-description: "Ein Beispieltext"
+description: "Hier steht dann wohl eine tolle Einleitung"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -32,5 +32,4 @@ cover:
     hidden: true # only hide on current single page
 ---
 
-# Test
-Hallo! Dies ist mein erster Beitrag den ich mit der Hugo-Enginge veröffentliche.
+Hallo! Dies ist mein erster Beitrag den ich mit der Hugo-Engine veröffentliche.
