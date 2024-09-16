@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: true
 description: "Hier steht dann wohl eine tolle Einleitung"
-canonicalURL: "https://canonical.url/to/page"
+canonicalURL: "https://www.christian-weber.net/posts/erster_testbeitrag/"
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
