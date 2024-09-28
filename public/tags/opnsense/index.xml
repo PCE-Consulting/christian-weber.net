@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Christian Weber</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Christian Weber</description>
+    <title>OPNSense on Christian Weber</title>
+    <link>http://localhost:1313/tags/opnsense/</link>
+    <description>Recent content in OPNSense on Christian Weber</description>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Sep 2024 23:05:03 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/opnsense/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firewall Ports für diverse smarte Steckdosen</title>
       <link>http://localhost:1313/posts/ports_fuer_smarte_steckdosen/</link>
       <pubDate>Fri, 27 Sep 2024 23:05:03 +0000</pubDate>
       <guid>http://localhost:1313/posts/ports_fuer_smarte_steckdosen/</guid>
       <description>Smarte Geräte im Heimnetzwerk benötigen bestimmte geöffnete Ports an einer FIrewall, damit die Geräte kommunizieren können. Hier findest du eine kleine Auswahl.</description>
-    </item>
-    <item>
-      <title>Mein erster Beitrag</title>
-      <link>http://localhost:1313/posts/erster_testbeitrag/</link>
-      <pubDate>Sun, 15 Sep 2024 11:30:03 +0000</pubDate>
-      <guid>http://localhost:1313/posts/erster_testbeitrag/</guid>
-      <description>Hier steht dann wohl eine tolle Einleitung</description>
     </item>
   </channel>
 </rss>

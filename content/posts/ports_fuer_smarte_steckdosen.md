@@ -1,6 +1,6 @@
 ---
 title: "Firewall Ports für diverse smarte Steckdosen"
-date: 2024-09-28T23:05:03+00:00
+date: 2024-09-27T23:05:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["Firewall","OPNSense","Smarte Steckdosen","Hama","Amazon Echo","Smartlife","Tuya","Smarthome"]
